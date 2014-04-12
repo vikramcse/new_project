@@ -1,3 +1,7 @@
 here are the new files
 and this is also
+<<<<<<< HEAD
 Inserted the foo feature.
+=======
+Here are the changes of bar feature
+>>>>>>> bar_feature
